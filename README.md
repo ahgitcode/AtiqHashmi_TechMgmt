@@ -1,7 +1,7 @@
 Hello and Thanks for visiting,
 
 - I have done projects in AI/ML area such as RAG/NLP using OpenAI, LangChain, LangFuse, PineCone etc.
-- I have also done real data analytics on various business usecases and built ML models to analyze business challenges, and generate recommendations.
+- I have also done real data analytics on various business usecases and built ML models to analyze business challenges and generate recommendations.
 ---
 - Additionally,
   - I have advised startups/small businesses and shared knowhow I gained from my corporate and startup experience.
