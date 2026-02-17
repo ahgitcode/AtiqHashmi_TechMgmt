@@ -1,6 +1,4 @@
-Hello,
-
-
+Hello and Thanks for visiting,
 
 - I have done projects in AI/ML area such as RAG/NLP using OpenAI, LangChain, LangFuse, PineCone etc.
 - I have also done real data analytics on various business usecases and built ML models to answer business challenges and generate recommendations
